@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Raul-Octavian's github stats](https://github-readme-stats.vercel.app/api?username=raul-octavian)](https://github.com/raul-octavian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raul-octavian)](https://github.com/raul-octavian/github-readme-stats)
